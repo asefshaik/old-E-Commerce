@@ -15,7 +15,7 @@ https://reactjs-ecommerce-app.vercel.app/
 
 ## Screenshots
 
-![App Screenshot](main.png)
+![App Screenshot](https://img.rasset.ie/00139b7c-1600.jpg)
 
 
 
